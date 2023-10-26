@@ -1,0 +1,25 @@
+<mat-toolbar color="primary">
+  <div class="container">
+    <mat-toolbar-row class="justify-content-between">
+      <span>Projeto Angular XBike</span>
+      <span class=" spacer"></span>
+
+      <mat-form-field class="buscaNav">
+        <input matInput placeholder="Buscar..." type="text" (keyup)="onSearch($event)">
+      </mat-form-field>
+
+      <button mat-button routerLink="/">Home</button>
+      <button mat-button routerLink="/">Sobre</button>
+      <button mat-button routerLink="/">Contato</button>
+      <a><i class="fa fa-user"></i></a>
+      <a><i class="fa fa-shopping-cart"></i></a>
+    </mat-toolbar-row>
+  </div>
+  <mat-toolbar-row class="nav-secundaria">
+    <button mat-button>Botão 1</button>
+    <button mat-button>Botão 2</button>
+    <button mat-button>Botão 3</button>
+    <button mat-button>Botão 4</button>
+    <button mat-button>Botão 5</button>
+  </mat-toolbar-row>
+</mat-toolbar>

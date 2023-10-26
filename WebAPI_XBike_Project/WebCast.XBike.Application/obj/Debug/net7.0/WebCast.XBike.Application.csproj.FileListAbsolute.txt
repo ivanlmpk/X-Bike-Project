@@ -1,0 +1,15 @@
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\bin\Debug\net7.0\WebCast.XBike.Application.deps.json
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\bin\Debug\net7.0\WebCast.XBike.Application.dll
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\bin\Debug\net7.0\WebCast.XBike.Application.pdb
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\bin\Debug\net7.0\WebCast.XBike.Domain.dll
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\bin\Debug\net7.0\WebCast.XBike.Domain.pdb
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.csproj.AssemblyReference.cache
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.AssemblyInfoInputs.cache
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.AssemblyInfo.cs
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.csproj.CoreCompileInputs.cache
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.csproj.CopyComplete
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.dll
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\refint\WebCast.XBike.Application.dll
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\WebCast.XBike.Application.pdb
+C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\WebCast.XBike.Application\obj\Debug\net7.0\ref\WebCast.XBike.Application.dll

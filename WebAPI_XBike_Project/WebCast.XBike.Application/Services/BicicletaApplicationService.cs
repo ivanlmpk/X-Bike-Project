@@ -1,11 +1,5 @@
-﻿using Core.Entities;
-using Core.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using WebCast.XBike.Entities;
+using WebCast.XBike.Interfaces;
 using WebCast.XBike.Application.Interfaces;
 
 namespace WebCast.XBike.Application.Services

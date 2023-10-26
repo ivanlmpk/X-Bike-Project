@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <RootNamespace>ASP.NET_WebApi_Marcoratti</RootNamespace>
+    <RootNamespace>WebCast.XBike</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Data\WebCast.XBike.Infra.csproj" />
     <ProjectReference Include="..\WebCast.XBike.Application\WebCast.XBike.Application.csproj" />
+    <ProjectReference Include="..\WebCast.XBike.Infra\WebCast.XBike.Infra.csproj" />
   </ItemGroup>
 
 </Project>

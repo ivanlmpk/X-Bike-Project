@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xBjMQ4iwg3xj+RZoJ/LASyUyq3OPBVffNVIW4bo04KnHq5U48unYzKspWG79/r8kDgu/V09ya0siOPh5WS+ttA==",
+  "dgSpecHash": "mI6FesRW7XuHgRR9DGkgxhopKkiqoGRne31tspBeMGUvb04tG5dBHFw6ClCsIEXpvHFQXLTMvMk8CU7UZSFaJw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Data\\WebCast.XBike.Infra.csproj",
+  "projectFilePath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Infra\\WebCast.XBike.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

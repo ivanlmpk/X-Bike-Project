@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/xH9/iuzThM4M9B0640dcLq18ceVLumyI2SrAdea3af1cIyxQa0tJ2GMZoJuJhYZ98bk8F28BN5rfF4uyZZ0VA==",
+  "dgSpecHash": "hde2v+WeNOWlv5eFeWql7Bev2Y8lrTcbpPdPPiGYGx2h8L0EKg9qcKuHNg88ppUwGPfDFyrMawEhCpY+gYA1hw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebAPi.xUnitTests\\WebCast.XBike.UnitTest.csproj",
+  "projectFilePath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.Xbike.UnitTests\\WebCast.XBike.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

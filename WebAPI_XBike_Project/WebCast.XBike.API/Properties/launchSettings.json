@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ASP.NET_WebApi_Marcoratti": {
+    "WebCast.XBike": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

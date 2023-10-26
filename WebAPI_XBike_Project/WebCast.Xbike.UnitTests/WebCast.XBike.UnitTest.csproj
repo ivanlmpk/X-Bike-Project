@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ASP.NET-WebApi-Marcoratti\WebCast.XBike.API.csproj" />
-    <ProjectReference Include="..\Core\WebCast.XBike.Domain.csproj" />
+    <ProjectReference Include="..\WebCast.XBike.API\WebCast.XBike.API.csproj" />
+    <ProjectReference Include="..\WebCast.XBike.Domain\WebCast.XBike.Domain.csproj" />
   </ItemGroup>
 
 </Project>

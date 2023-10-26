@@ -1,13 +1,10 @@
-﻿using Core.Entities;
-using Core.Interfaces;
-using Microsoft.AspNetCore.Http;
+﻿using WebCast.XBike.Entities;
+using WebCast.XBike.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Formatters;
-using Microsoft.OpenApi.Any;
 using System.Threading.Tasks;
 using WebCast.XBike.Application.Interfaces;
 
-namespace ASP.NET_WebApi_Marcoratti.Controllers
+namespace WebCast.XBike.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

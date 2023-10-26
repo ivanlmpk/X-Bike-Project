@@ -1,10 +1,8 @@
-using ASP.NET_WebApi_Marcoratti.Controllers;
-using Core.Entities;
-using Core.Interfaces;
+using WebCast.XBike.Controllers;
+using WebCast.XBike.Entities;
+using WebCast.XBike.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
-using System;
-using System.Threading.Tasks;
 using Xunit;
 
 namespace WebAPi.xUnitTests

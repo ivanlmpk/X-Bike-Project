@@ -5,3 +5,9 @@ C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\ASP.NET-WebApi-Marcoratti\obj\Debug
 C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\ASP.NET-WebApi-Marcoratti\obj\Debug\netcoreapp3.0\WebCast.XBike.API.csproj.CoreCompileInputs.cache
 C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\ASP.NET-WebApi-Marcoratti\obj\Debug\netcoreapp3.0\WebCast.XBike.API.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\SPA-Angular\ASP.NET-WebApi-Marcoratti\ASP.NET-WebApi-Marcoratti\obj\Debug\netcoreapp3.0\WebCast.XBike.API.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.XBike.API\obj\Debug\netcoreapp3.0\WebCast.XBike.API.csproj.AssemblyReference.cache
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.XBike.API\obj\Debug\netcoreapp3.0\WebCast.XBike.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.XBike.API\obj\Debug\netcoreapp3.0\WebCast.XBike.API.AssemblyInfoInputs.cache
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.XBike.API\obj\Debug\netcoreapp3.0\WebCast.XBike.API.AssemblyInfo.cs
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.XBike.API\obj\Debug\netcoreapp3.0\WebCast.XBike.API.csproj.CoreCompileInputs.cache
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.XBike.API\obj\Debug\netcoreapp3.0\WebCast.XBike.API.MvcApplicationPartsAssemblyInfo.cache

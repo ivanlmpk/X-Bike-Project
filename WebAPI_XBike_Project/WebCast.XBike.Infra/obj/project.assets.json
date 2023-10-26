@@ -5982,8 +5982,8 @@
     },
     "WebCast.XBike.Domain/1.0.0": {
       "type": "project",
-      "path": "../Core/WebCast.XBike.Domain.csproj",
-      "msbuildProject": "../Core/WebCast.XBike.Domain.csproj"
+      "path": "../WebCast.XBike.Domain/WebCast.XBike.Domain.csproj",
+      "msbuildProject": "../WebCast.XBike.Domain/WebCast.XBike.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6000,11 +6000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Data\\WebCast.XBike.Infra.csproj",
+      "projectUniqueName": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Infra\\WebCast.XBike.Infra.csproj",
       "projectName": "WebCast.XBike.Infra",
-      "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Data\\WebCast.XBike.Infra.csproj",
+      "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Infra\\WebCast.XBike.Infra.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Data\\obj\\",
+      "outputPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6025,8 +6025,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Core\\WebCast.XBike.Domain.csproj": {
-              "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Core\\WebCast.XBike.Domain.csproj"
+            "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Domain\\WebCast.XBike.Domain.csproj": {
+              "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Domain\\WebCast.XBike.Domain.csproj"
             }
           }
         }

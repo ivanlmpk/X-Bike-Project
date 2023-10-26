@@ -17,8 +17,8 @@
   "libraries": {
     "WebCast.XBike.Domain/1.0.0": {
       "type": "project",
-      "path": "../Core/WebCast.XBike.Domain.csproj",
-      "msbuildProject": "../Core/WebCast.XBike.Domain.csproj"
+      "path": "../WebCast.XBike.Domain/WebCast.XBike.Domain.csproj",
+      "msbuildProject": "../WebCast.XBike.Domain/WebCast.XBike.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -58,8 +58,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Core\\WebCast.XBike.Domain.csproj": {
-              "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Core\\WebCast.XBike.Domain.csproj"
+            "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Domain\\WebCast.XBike.Domain.csproj": {
+              "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Domain\\WebCast.XBike.Domain.csproj"
             }
           }
         }

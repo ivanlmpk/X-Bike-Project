@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Core.Entities;
+using WebCast.XBike.Entities;
 
 namespace Data.Context
 {

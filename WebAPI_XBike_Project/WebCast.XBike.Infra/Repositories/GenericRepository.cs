@@ -2,8 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Core.Interfaces;
-using System.Linq;
+using WebCast.XBike.Interfaces;
 
 namespace Data.Repositories
 {

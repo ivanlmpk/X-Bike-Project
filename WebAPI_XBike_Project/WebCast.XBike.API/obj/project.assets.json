@@ -6440,13 +6440,13 @@
     },
     "WebCast.XBike.Domain/1.0.0": {
       "type": "project",
-      "path": "../Core/WebCast.XBike.Domain.csproj",
-      "msbuildProject": "../Core/WebCast.XBike.Domain.csproj"
+      "path": "../WebCast.XBike.Domain/WebCast.XBike.Domain.csproj",
+      "msbuildProject": "../WebCast.XBike.Domain/WebCast.XBike.Domain.csproj"
     },
     "WebCast.XBike.Infra/1.0.0": {
       "type": "project",
-      "path": "../Data/WebCast.XBike.Infra.csproj",
-      "msbuildProject": "../Data/WebCast.XBike.Infra.csproj"
+      "path": "../WebCast.XBike.Infra/WebCast.XBike.Infra.csproj",
+      "msbuildProject": "../WebCast.XBike.Infra/WebCast.XBike.Infra.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6490,11 +6490,11 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Data\\WebCast.XBike.Infra.csproj": {
-              "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Data\\WebCast.XBike.Infra.csproj"
-            },
             "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Application\\WebCast.XBike.Application.csproj": {
               "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Application\\WebCast.XBike.Application.csproj"
+            },
+            "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Infra\\WebCast.XBike.Infra.csproj": {
+              "projectPath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Infra\\WebCast.XBike.Infra.csproj"
             }
           }
         }

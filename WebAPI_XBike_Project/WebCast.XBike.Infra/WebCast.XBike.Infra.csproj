@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\WebCast.XBike.Domain.csproj" />
+    <ProjectReference Include="..\WebCast.XBike.Domain\WebCast.XBike.Domain.csproj" />
   </ItemGroup>
 
 </Project>

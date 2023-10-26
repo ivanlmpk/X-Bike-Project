@@ -1,0 +1,6 @@
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.Xbike.UnitTests\bin\Debug\netcoreapp3.0\CoverletSourceRootsMapping
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.Xbike.UnitTests\obj\Debug\netcoreapp3.0\WebCast.XBike.UnitTest.csproj.AssemblyReference.cache
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.Xbike.UnitTests\obj\Debug\netcoreapp3.0\WebCast.XBike.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.Xbike.UnitTests\obj\Debug\netcoreapp3.0\WebCast.XBike.UnitTest.AssemblyInfoInputs.cache
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.Xbike.UnitTests\obj\Debug\netcoreapp3.0\WebCast.XBike.UnitTest.AssemblyInfo.cs
+C:\dev\SPA-Angular\WebAPI_XBike_Project\WebCast.Xbike.UnitTests\obj\Debug\netcoreapp3.0\WebCast.XBike.UnitTest.csproj.CoreCompileInputs.cache

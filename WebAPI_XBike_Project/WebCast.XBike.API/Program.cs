@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ASP.NET_WebApi_Marcoratti
+namespace WebCast.XBike
 {
     public class Program
     {

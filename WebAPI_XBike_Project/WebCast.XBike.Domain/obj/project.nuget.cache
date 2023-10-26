@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ApcDd5fvWRzVIos5BNXleEby7R8YDjczVQY5jr+5cXBFY45d6Z3CVla/f44fooPclPKtrUTyCe8ei/2M29ucQ==",
+  "dgSpecHash": "KBQJ9uw+ALvFHib+0qe+Fazljhmlf9H2tI4QN4fymaKHgXMjDEf8e15mBJfQEXdjcGXI/FaiaCWLUCHmNDVJVA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\Core\\WebCast.XBike.Domain.csproj",
+  "projectFilePath": "C:\\dev\\SPA-Angular\\WebAPI_XBike_Project\\WebCast.XBike.Domain\\WebCast.XBike.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

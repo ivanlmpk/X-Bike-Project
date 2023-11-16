@@ -14,13 +14,16 @@ import { MatCardModule } from "@angular/material/card";
 import { MatTableModule } from "@angular/material/table";
 import { MatInputModule } from '@angular/material/input';
 import { MatFormFieldModule } from '@angular/material/form-field';
+import { CarouselModule } from 'ngx-bootstrap/carousel';
+import { CarouselComponent } from './carousel/carousel.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ItemListComponent,
     BicicletasComponent,
-    ClientesComponent
+    ClientesComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
@@ -33,7 +36,8 @@ import { MatFormFieldModule } from '@angular/material/form-field';
     MatCardModule,
     MatTableModule,
     MatInputModule,
-    MatFormFieldModule
+    MatFormFieldModule,
+    CarouselModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]

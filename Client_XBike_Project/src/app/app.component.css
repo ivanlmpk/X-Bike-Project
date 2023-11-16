@@ -1,11 +1,37 @@
-.container {
-    display: grid;
-    place-items: center;
+.nav-posterior {
+    background-color: #1C1C1C;
 }
 
+.nav-subposterior {
+    display: flex;
+    place-content: end;
+    gap: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    height: 3em;
+}
 
-.mat-toolbar {
-    background-color: cornflowerblue;
+.nav-subposterior a {
+    display: flex;
+    place-items: center;
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.nav-primaria {
+    background-color: #8B0000;
+    display: flex;
+    place-items: center;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+}
+
+.nav-primaria img {
+    height: 30px;
+    width: auto;
+    margin-right: 10px;
+
 }
 
 .nav-secundaria {
@@ -19,17 +45,24 @@
 
 .buscaNav {
     margin-top: 1em;
-    scale: 0.7;
+    scale: 0.75;
     /* width: 750px;
     position: relative;
-    right: -4.5em;
-    font-size: 18px; */
+    right: -4.5em; */
+    font-size: 18px;
+    font-weight: 500;
     width: 100%;
-    flex: 1;
+    /* flex: 1; */
 }
 
 .buscaNav ::placeholder {
     font-size: 21px;
+}
+
+.buscaNav i {
+    color: #1C1C1C;
+    margin-right: 1em;
+    scale: 1.5;
 }
 
 .spacer {
